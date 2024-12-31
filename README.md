@@ -78,7 +78,9 @@ Publish the website in the given URL.
 
 ![alt text](<Screenshot 2024-11-27 113800.png>)
 
-![image](https://github.com/user-attachments/assets/8298d415-2173-4e90-9b06-fabf0baa6e53)
+
+![image](https://github.com/user-attachments/assets/70345225-e4fe-4991-b554-ee9fa2ad3127)
+
 
 
 ## RESULT:

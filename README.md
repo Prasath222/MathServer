@@ -78,5 +78,8 @@ Publish the website in the given URL.
 
 ![alt text](<Screenshot 2024-11-27 113800.png>)
 
+![image](https://github.com/user-attachments/assets/8298d415-2173-4e90-9b06-fabf0baa6e53)
+
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
